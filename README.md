@@ -124,6 +124,8 @@ graph TB
 
 ## 📊 Dashboard
 
+<div align="center">
+ 
 *Wanna see a sample of our 20+ Dashboards 📊?*
 
 <img src="assets/dashboard1.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
@@ -163,6 +165,9 @@ graph TB
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 💻 Meet The Dream Team
 
