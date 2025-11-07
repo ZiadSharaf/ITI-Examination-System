@@ -1,8 +1,8 @@
 <div align="center">
 
-  
 <h1>🚀 ITI Examination System</h1>
 
+![image](https://github.com/user-attachments/assets/94bb8a9a-da45-47f3-bfa5-a83c4d96348d)
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
