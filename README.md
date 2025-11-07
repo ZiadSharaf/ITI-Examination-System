@@ -103,8 +103,10 @@ graph TB
 
 
 ## DWH
-![DWH DimModeling](https://github.com/user-attachments/assets/b86d288f-611d-45e1-9676-f4cb2b12efd4)
-
+<img src="assets/DWH schema.png" 
+     alt="DWH Schema"
+     width="100%" 
+     style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
 
 
@@ -284,4 +286,4 @@ Phase 6: Application Dev        ████████████████
 </div>
 
 
-do the changes please and send me the new code 
+
