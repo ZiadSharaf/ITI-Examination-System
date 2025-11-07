@@ -7,17 +7,7 @@
      width="180px" 
      style="border-radius: 10px; margin: 10px 0;" />
 
-<div align="center">
 
-<h2 style="
-  background: linear-gradient(90deg, #0078D7, #FFB900);
-  color: white;
-  padding: 10px 0;
-  border-radius: 10px;
-  width: 70%;
-  margin: auto;
-  font-family: 'Segoe UI', sans-serif;
-">
 🧰 Technologies & Tools
 </h2>
 
