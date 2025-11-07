@@ -3,9 +3,6 @@
   
 <h1>🚀 ITI Examination System</h1>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Comprehensive+Database+Solution;Advanced+Business+Intelligence;Full-Stack+Examination+System;Data+Warehouse+%26+ETL+Pipeline" alt="Typing SVG" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
