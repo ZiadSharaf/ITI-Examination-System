@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>🚀 ITI Examination System</h1>
@@ -33,17 +32,6 @@ font-family: 'Segoe UI', sans-serif;
 <img src="https://img.shields.io/badge/Lovable_AI-FF69B4?style=for-the-badge&logo=ai&logoColor=white" alt="Lovable AI"/>
 </p>
 
-</div>
-
-<p>
-<img src="https://img.shields.io/badge/Status-🔥_Active_Development-ff6b6b?style=for-the-badge" alt="Status"/>
-<img src="https://img.shields.io/badge/Team-5_Developers-4ecdc4?style=for-the-badge" alt="Team"/>
-<img src="https://img.shields.io/badge/Progress-100%25-45b7d1?style=for-the-badge" alt="Progress"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
 
 ## 🎯 Project Overview
 
