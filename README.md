@@ -65,27 +65,29 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 <div align="center">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
 
-### From Concept to Dashboard
+### Our Multi-Layered Architecture
 
 ```mermaid
 graph TB
-    A[ERD] --> B[Mapping]
-    B --> C[Database Creation]
-    C --> D[Data Generation]
-    D --> E[Stored Procedure]
-    E --> F[Data Warehouse (DWH)]
-    F --> G[SSRS]
-    G --> H[Dashboard]
-
+    A[🌐 Website Interface] --> B[📊 Power BI Dashboards]
+    A --> C[🎨 Tableau Visualizations]
+    B --> D[📋 SSRS Reports]
+    C --> D
+    D --> E[🔄 SSIS Integration]
+    E --> F[🏢 Data Warehouse DWH]
+    F --> G[⚙️ Stored Procedures]
+    G --> H[🗄️ Database Creation]
+    H --> I[🗺️ ERD & Mapping]
+    
     style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#feca57,stroke:#fff,stroke-width:3px,color:#fff
-    style C fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff
-    style D fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff
-    style E fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff
-    style F fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
-    style G fill:#10ac84,stroke:#fff,stroke-width:3px,color:#fff
-    style H fill:#ff9ff3,stroke:#fff,stroke-width:3px,color:#fff
-   
+    style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff
+    style C fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff
+    style D fill:#96ceb4,stroke:#fff,stroke-width:3px,color:#fff
+    style E fill:#feca57,stroke:#fff,stroke-width:3px,color:#fff
+    style F fill:#ff9ff3,stroke:#fff,stroke-width:3px,color:#fff
+    style G fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff
+    style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
+    style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
 ```
 </div>
 
