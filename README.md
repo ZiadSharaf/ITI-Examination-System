@@ -19,7 +19,10 @@ width: 70%;
 margin: auto;
 font-family: 'Segoe UI', sans-serif;
 ">
-    
+
+
+ <div align="center">
+     
 🧰 Technologies & Tools     
 </h2>
 
@@ -37,6 +40,8 @@ font-family: 'Segoe UI', sans-serif;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+    
 ## 🎯 Project Overview
 
 > **Building the Future of Educational Management** 🌟
