@@ -1,4 +1,4 @@
-<div align="center">
+<img width="722" height="140" alt="image" src="https://github.com/user-attachments/assets/de0ae91c-d815-4910-a5fe-5e373bdf630e" /><div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 <h1>🚀 ITI Examination System</h1>
@@ -162,23 +162,23 @@ Phase 6: Application Dev        ████████████████
 </a>
 </td>
 
-<!-- Omar Elqersh -->
+<!-- Adham Abdelnasser -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/916132c9-e38e-469b-be8e-cd1ba64302b6" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/11c653a4-acec-47cc-b960-65137a3148a6" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
 <br />
 <sub><b>⚡ Omar Elqersh</b></sub>
 <br />
-<sub>BI Dev & Data Analyst</sub>
+<sub>Data Analyst & Power BI Developer</sub>
 </div>
 <br />
-<a href="https://github.com/OMARELQERSH">
+<a href="https://github.com/Adham-111">
 <img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://www.linkedin.com/in/omar-elqersh/">
+<a href="https://www.linkedin.com/in/adhamabdelnasser/">
 <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
