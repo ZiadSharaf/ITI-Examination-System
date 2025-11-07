@@ -144,7 +144,7 @@ Phase 6: Application Dev        ████████████████
 <!-- Moataz Elmesmary -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/83a5f4e6-2b2b-42ad-a68c-3676da63103d" width="110px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="110px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 <br />
