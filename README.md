@@ -142,7 +142,6 @@ Phase 4: Core Procedures        ████████████████
 Phase 5: BI & Reporting         ████████████████████ 100% ✅
 Phase 6: Web Interface          ████████████████████ 100% ✅
 ```
-## Website
 ## Website Interface
 
 <img src="Website/Picture 1.png" 
