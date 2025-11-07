@@ -2,7 +2,10 @@
 
 <h1>🚀 ITI Examination System</h1>
 
-![image](https://github.com/user-attachments/assets/94bb8a9a-da45-47f3-bfa5-a83c4d96348d)
+<img src="https://github.com/user-attachments/assets/94bb8a9a-da45-47f3-bfa5-a83c4d96348d" 
+     alt="ITI Examination System Logo" 
+     width="180px" 
+     style="border-radius: 10px; margin: 10px 0;" />
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
