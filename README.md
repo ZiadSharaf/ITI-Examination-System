@@ -63,7 +63,6 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 ## ⚙️ Project Workflow
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
 
 ### Our Multi-Layered Architecture
 
