@@ -19,7 +19,7 @@ width: 70%;
 margin: auto;
 font-family: 'Segoe UI', sans-serif;
 ">
-🧰 Technologies & Tools     
+## 🧰 Technologies & Tools     
 </h2>
 
 <p>
