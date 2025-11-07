@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-<h1>🚀 ITI Examination & Business Intelligence System</h1>
+<h1>🚀 ITI Examination System</h1>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Comprehensive+Database+Solution;Advanced+Business+Intelligence;Full-Stack+Examination+System;Data+Warehouse+%26+ETL+Pipeline" alt="Typing SVG" />
@@ -169,7 +169,7 @@ Phase 6: Application Dev        ████████████████
 <br />
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
 <br />
-<sub><b>⚡ Omar Elqersh</b></sub>
+<sub><b>⚡Adham Abdelnasser</b></sub>
 <br />
 <sub>Data Analyst & Power BI Developer</sub>
 </div>
