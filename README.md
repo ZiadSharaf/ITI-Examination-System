@@ -102,7 +102,7 @@ graph TB
 <img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 
 ## Mapping
-<img src="assets/mapping.png" 
+<img src="assets/Mapping.png" 
      alt="Mapping Diagram"
      width="100%" 
      style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
