@@ -234,7 +234,7 @@ Phase 6: Application Dev        ████████████████
 <br />
 <sub><b>🌟 Nader John</b></sub>
 <br />
-<sub>BI Dev & Data Analyst</sub>
+<sub>Data Analyst & Power BI Developer</sub>
 </div>
 <br />
 <a href="https://github.com/NaderJohn">
