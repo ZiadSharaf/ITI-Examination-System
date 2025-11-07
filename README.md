@@ -183,23 +183,23 @@ Phase 6: Application Dev        ████████████████
 </a>
 </td>
 
-<!-- Ahmed Mekky -->
+<!-- Noreen Essam -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/c9e88966-87c1-4a69-a829-444de84d905b" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/1d0fc507-337b-4336-9174-5ba84cd72237b" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/>
 <br />
-<sub><b>💎 Ahmed Mekky</b></sub>
+<sub><b>💎 Noreen Essam</b></sub>
 <br />
-<sub>BI Dev & Data Analyst</sub>
+<sub>Data Analyst & Power BI Developer</sub>
 </div>
 <br />
-<a href="https://github.com/A-Mekky13">
+<a href="https://github.com/noreenessam">
 <img src="https://img.shields.io/badge/GitHub-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://www.linkedin.com/in/ahmed-m-mekky/">
+<a href="https://www.linkedin.com/in/noreen-essam/">
 <img src="https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
