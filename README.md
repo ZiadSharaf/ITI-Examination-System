@@ -228,7 +228,7 @@ Phase 6: Application Dev        ████████████████
 <!-- Nader John -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/b1b911cb-e27e-4f92-b2e4-6630dd5b6827" width="120px" height="110px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/cbe9c0ae-8eec-43e5-a194-d738bb32eb8c" width="120px" height="110px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"/>
 <br />
