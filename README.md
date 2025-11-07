@@ -77,7 +77,6 @@ graph TB
     style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
     style I fill:#222f3e,stroke:#fff,stroke-width:3px,color:#fff
 ```
-</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
