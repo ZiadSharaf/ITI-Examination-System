@@ -74,7 +74,7 @@ graph TB
     E --> F[🏢 Data Warehouse DWH]
     F --> G[📋 SSRS Reports]
     G --> H[📊 Dashboard]
-    H --> I[🌐 Website Interface]
+    H --> I[🌐 Website]
     
     style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
     style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff 
