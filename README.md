@@ -79,6 +79,10 @@ graph TB
 ```
 </div>
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 
 ## 🗺️ ERD
 <img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
