@@ -65,13 +65,11 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 
 <div align="center">
 
-### Our Multi-Layered Architecture
-
 ```mermaid
 graph TB
     A[🗺️ ERD] --> B[🗺️ Mapping]
     B --> C[🗄️ Database Creation]
-    C --> D[Database Generation]
+    C --> D[🧮 Database Generation]
     D --> E[⚙️ Stored Procedures]
     E --> F[🏢 Data Warehouse DWH]
     F --> G[📋 SSRS Reports]
