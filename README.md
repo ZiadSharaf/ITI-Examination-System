@@ -32,6 +32,9 @@ font-family: 'Segoe UI', sans-serif;
 <img src="https://img.shields.io/badge/Lovable_AI-FF69B4?style=for-the-badge&logo=ai&logoColor=white" alt="Lovable AI"/>
 </p>
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🎯 Project Overview
 
