@@ -79,8 +79,7 @@ graph TB
    A[🌐 Website Interface] --> B[📊 Power BI Dashboards]
    A --> C[🎨 Tableau Visualizations]
    B --> D[📋 SSRS Reports]
-   C --> D
-   D --> E[🔄 SSIS Integration]
+   C --> E
    E --> F[🏢 Data Warehouse DWH]
    F --> G[⚙️ Stored Procedures]
    G --> H[🗄️ Database Creation]
