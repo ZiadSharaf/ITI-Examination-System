@@ -25,10 +25,11 @@ font-family: 'Segoe UI', sans-serif;
 
 <p>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/>
-<img src="https://img.shields.io/badge/SSIS-FF6C37?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSIS"/>
 <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSRS"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Lovable_AI-FF69B4?style=for-the-badge&logo=ai&logoColor=white" alt="Lovable AI"/>
 </p>
 
 </div>
