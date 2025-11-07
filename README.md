@@ -102,7 +102,10 @@ graph TB
 <img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 
 ## Mapping
-![Mapping](https://github.com/user-attachments/assets/7e364a96-3a64-4fb3-9eb2-6aae728fd6c6)
+<img src="assets/mapping.png" 
+     alt="Mapping Diagram"
+     width="100%" 
+     style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
 <h2> SSIS </h2> <u> A sample for the Fact Table:</u>
 
