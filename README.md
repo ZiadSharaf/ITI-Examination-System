@@ -162,125 +162,66 @@ Phase 6: Web Interface          ████████████████
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
 
-## 🌟 Meet Our Legendary Team
+## 💻 Meet The Dream Team
 
 <div align="center">
-<h2>🔥 The Code Warriors 🔥</h2>
+<h2 style="color:#0078D7; font-family:'Segoe UI', sans-serif;">✨ The Data Dynamos ✨</h2>
 
 <table>
 <tr>
 
-<!-- Ziad Sharaf -->
+<!-- 🧠 Ziad Sharaf -->
 <td align="center">
-<div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="110px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
-<br />
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
-<br />
-<sub><b>🔥 Ziad Sharaf</b></sub>
-<br />
-<sub>Data Analyst & Power BI Developer</sub>
-</div>
-<br />
-<a href="https://github.com/ZiadSharaf">
-<img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br />
-<a href="https://www.linkedin.com/in/ziad-sharaf-zs//">
-<img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github.com/user-attachments/assets/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="115" height="115" style="border-radius:50%; border:3px solid #0078D7; box-shadow:0 0 10px rgba(0,120,215,0.5); object-fit:cover;"/>
+<br><b>Ziad Sharaf</b><br>
+<sub>Data Analyst • Power BI Specialist</sub><br><br>
+<a href="https://github.com/ZiadSharaf"><img src="https://img.shields.io/badge/GitHub-0078D7?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ziad-sharaf-zs/"><img src="https://img.shields.io/badge/LinkedIn-0078D7?style=flat-square&logo=linkedin&logoColor=white"></a>
 </td>
 
-<!-- Adham Abdelnasser -->
+<!-- ⚡ Adham Abdelnasser -->
 <td align="center">
-<div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/11c653a4-acec-47cc-b960-65137a3148a6" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.5); object-fit: cover; display: block; margin: auto;"/>
-<br />
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
-<br />
-<sub><b>⚡Adham Abdelnasser</b></sub>
-<br />
-<sub>Data Analyst & Power BI Developer</sub>
-</div>
-<br />
-<a href="https://github.com/Adham-111">
-<img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br />
-<a href="https://www.linkedin.com/in/adhamabdelnasser/">
-<img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github.com/user-attachments/assets/11c653a4-acec-47cc-b960-65137a3148a6" width="115" height="115" style="border-radius:50%; border:3px solid #00BFA6; box-shadow:0 0 10px rgba(0,191,166,0.5); object-fit:cover;"/>
+<br><b>Adham Abdelnasser</b><br>
+<sub>Data Analyst • BI Developer</sub><br><br>
+<a href="https://github.com/Adham-111"><img src="https://img.shields.io/badge/GitHub-00BFA6?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/adhamabdelnasser/"><img src="https://img.shields.io/badge/LinkedIn-00BFA6?style=flat-square&logo=linkedin&logoColor=white"></a>
 </td>
 
-<!-- Noreen Essam -->
+<!-- 💎 Noreen Essam -->
 <td align="center">
-<div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/1d0fc507-337b-4336-9174-5ba84cd72237b" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #45b7d1; box-shadow: 0 0 20px rgba(69, 183, 209, 0.5); object-fit: cover; display: block; margin: auto;"/>
-<br />
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/>
-<br />
-<sub><b>💎 Noreen Essam</b></sub>
-<br />
-<sub>Data Analyst & Power BI Developer</sub>
-</div>
-<br />
-<a href="https://github.com/noreenessam">
-<img src="https://img.shields.io/badge/GitHub-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br />
-<a href="https://www.linkedin.com/in/noreen-essam/">
-<img src="https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github.com/user-attachments/assets/1d0fc507-337b-4336-9174-5ba84cd72237b" width="115" height="115" style="border-radius:50%; border:3px solid #0096C7; box-shadow:0 0 10px rgba(0,150,199,0.5); object-fit:cover;"/>
+<br><b>Noreen Essam</b><br>
+<sub>Data Analyst • Visualization Expert</sub><br><br>
+<a href="https://github.com/noreenessam"><img src="https://img.shields.io/badge/GitHub-0096C7?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/noreen-essam/"><img src="https://img.shields.io/badge/LinkedIn-0096C7?style=flat-square&logo=linkedin&logoColor=white"></a>
 </td>
 
-<!-- Ahmed Ibrahim -->
+<!-- 🎯 Ahmed Ibrahim -->
 <td align="center">
-<div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #96ceb4; box-shadow: 0 0 20px rgba(150, 206, 180, 0.5); object-fit: cover; display: block; margin: auto;"/>
-<br />
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"/>
-<br />
-<sub><b>🎯 Ahmed Ibrahim</b></sub>
-<br />
-<sub>Data Analyst & Power BI Developer</sub>
-</div>
-<br />
-<a href="https://github.com/Ahmedibrahim175">
-<img src="https://img.shields.io/badge/GitHub-96CEB4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br />
-<a href="https://www.linkedin.com/in/ahmed-ibrahim1752/">
-<img src="https://img.shields.io/badge/LinkedIn-96CEB4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github.com/user-attachments/assets/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="115" height="115" style="border-radius:50%; border:3px solid #20C997; box-shadow:0 0 10px rgba(32,201,151,0.5); object-fit:cover;"/>
+<br><b>Ahmed Ibrahim</b><br>
+<sub>Data Engineer • BI Developer</sub><br><br>
+<a href="https://github.com/Ahmedibrahim175"><img src="https://img.shields.io/badge/GitHub-20C997?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ahmed-ibrahim1752/"><img src="https://img.shields.io/badge/LinkedIn-20C997?style=flat-square&logo=linkedin&logoColor=white"></a>
 </td>
 
-<!-- Nader John -->
+<!-- 🌟 Nader John -->
 <td align="center">
-<div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/24f91dbf-2370-4953-8bd0-8c5c54686bf5" width="120px" height="110px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5); object-fit: cover; display: block; margin: auto;"/>
-<br />
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"/>
-<br />
-<sub><b>🌟 Nader John</b></sub>
-<br />
-<sub>Data Analyst & Power BI Developer</sub>
-</div>
-<br />
-<a href="https://github.com/NaderJohn">
-<img src="https://img.shields.io/badge/GitHub-FECA57?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br />
-<a href="https://www.linkedin.com/in/naderjohn/">
-<img src="https://img.shields.io/badge/LinkedIn-FECA57?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github.com/user-attachments/assets/24f91dbf-2370-4953-8bd0-8c5c54686bf5" width="115" height="115" style="border-radius:50%; border:3px solid #F4A261; box-shadow:0 0 10px rgba(244,162,97,0.5); object-fit:cover;"/>
+<br><b>Nader John</b><br>
+<sub>Data Analyst • Dashboard Creator</sub><br><br>
+<a href="https://github.com/NaderJohn"><img src="https://img.shields.io/badge/GitHub-F4A261?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/naderjohn/"><img src="https://img.shields.io/badge/LinkedIn-F4A261?style=flat-square&logo=linkedin&logoColor=white"></a>
 </td>
 
 </tr>
 </table>
 
-<br />
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&width=435&lines=Together+We+Code%2C+Together+We+Conquer!" width="300">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=0078D7&center=true&width=435&lines=Stronger+Together+💪;Turning+Data+into+Decisions+📊" width="300">
+</div>
 
 <br />
 
