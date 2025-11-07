@@ -204,23 +204,23 @@ Phase 6: Application Dev        ████████████████
 </a>
 </td>
 
-<!-- Abdelrahman Hisham -->
+<!-- Ahmed Ibrahim -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/8980ee0f-ee0b-481a-b287-c6cd8432c0be" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #96ceb4; box-shadow: 0 0 20px rgba(150, 206, 180, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="120px" height="120px" style="border-radius: 50%; border: 4px solid #96ceb4; box-shadow: 0 0 20px rgba(150, 206, 180, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"/>
 <br />
-<sub><b>🎯 Abdelrahman Hisham</b></sub>
+<sub><b>🎯 Ahmed Ibrahim</b></sub>
 <br />
-<sub>BI Dev & Data Analyst</sub>
+<sub>Data Analyst & Power BI Developer</sub>
 </div>
 <br />
-<a href="https://github.com/abdelrahman-hisham">
+<a href="https://github.com/Ahmedibrahim175">
 <img src="https://img.shields.io/badge/GitHub-96CEB4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://www.linkedin.com/in/abdelrahmanelshimy/">
+<a href="https://www.linkedin.com/in/ahmed-ibrahim1752/">
 <img src="https://img.shields.io/badge/LinkedIn-96CEB4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
