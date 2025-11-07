@@ -38,7 +38,6 @@ font-family: 'Segoe UI', sans-serif;
 </div>
 
 <div align="center">
-    
 ## 🎯 Project Overview
 
 <div align="center">
