@@ -106,27 +106,6 @@ graph TB
      style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
 
-
-
-<div align="center">
-
-### 🎯 Our Complete Technology Stack
-
-| Layer | Technology | Description |
-|-------|------------|-------------|
-| 🗺️ **ERD Design** | Draw.io | Entity Relationship Diagram & Database Design |
-| 🗺️ **Mapping** | SQL Server | Table Relations & Foreign Key Constraints |
-| 🏗️ **Database Creation** | T-SQL Scripts | Full Database Implementation with 25+ Tables |
-| ⚙️ **Stored Procedures** | T-SQL | 70+ Procedures for CRUD & Business Logic |
-| 🏢 **Data Warehouse** | SQL Server | Star Schema Design & Implementation |
-| 📋 **SSRS Reports** | SQL Server Reporting Services | 6+ Professional Reports |
-| 📊 **20+ Dashboards** | Power BI & Tableau | Interactive Business Intelligence |
-| 📈 **Power BI** | Microsoft Power BI | Executive & Operational Dashboards |
-| 🌐 **Website** | Lovable ai | Modern Web Application |
-</div>
-
----
-
 ## Website Interface
 
 <img src="Website/Picture 1.png" 
