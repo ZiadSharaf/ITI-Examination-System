@@ -8,7 +8,19 @@
      style="border-radius: 10px; margin: 10px 0;" />
 
 
+<div align="center">
+
+<h2 style="
+  background: linear-gradient(90deg, #0078D7, #FFB900);
+  color: white;
+  padding: 10px 0;
+  border-radius: 10px;
+  width: 70%;
+  margin: auto;
+  font-family: 'Segoe UI', sans-serif;
+">
 🧰 Technologies & Tools
+     
 </h2>
 
 <p>
@@ -18,6 +30,8 @@
   <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSRS"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
 </p>
+
+</div>
 
 </div>
 
