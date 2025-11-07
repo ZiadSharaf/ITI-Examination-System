@@ -63,31 +63,7 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 
 ## ⚙️ Project Workflow
 
-<div align="center">
 
-### Our Multi-Layered Architecture
-
-```mermaid
-graph TB
-    A[🧩 ERD] --> B[🗺️ Mapping]
-    B --> C[🗄️ Database Creation]
-    C --> D[🧮 Data Generation]
-    D --> E[⚙️ Stored Procedure]
-    E --> F[🏢 Data Warehouse (DWH)]
-    F --> G[📈 SSRS]
-    G --> H[📊 Dashboard]
-    
-    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff
-    style C fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff
-    style D fill:#96ceb4,stroke:#fff,stroke-width:3px,color:#fff
-    style E fill:#feca57,stroke:#fff,stroke-width:3px,color:#fff
-    style F fill:#ff9ff3,stroke:#fff,stroke-width:3px,color:#fff
-    style G fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff
-    style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
-    style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
-```
-</div>
 
 ## ERD
 <img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
