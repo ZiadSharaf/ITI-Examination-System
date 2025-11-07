@@ -77,14 +77,14 @@ graph TB
     H --> I[🌐 Website Interface]
     
     style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff
-    style C fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff
-    style D fill:#96ceb4,stroke:#fff,stroke-width:3px,color:#fff
-    style E fill:#feca57,stroke:#fff,stroke-width:3px,color:#fff
-    style F fill:#ff9ff3,stroke:#fff,stroke-width:3px,color:#fff
-    style G fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff 
+    style C fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff 
+    style D fill:#96ceb4,stroke:#fff,stroke-width:3px,color:#fff 
+    style E fill:#feca57,stroke:#fff,stroke-width:3px,color:#fff 
+    style F fill:#ff9ff3,stroke:#fff,stroke-width:3px,color:#fff 
+    style G fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff 
     style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
-    style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
+    style I fill:#222f3e,stroke:#fff,stroke-width:3px,color:#fff
 ```
 </div>
 
