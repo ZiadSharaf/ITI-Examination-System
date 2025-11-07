@@ -1,7 +1,7 @@
-<img width="722" height="140" alt="image" src="https://github.com/user-attachments/assets/de0ae91c-d815-4910-a5fe-5e373bdf630e" /><div align="center">
+<div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-<h1>🚀 ITI Examination System</h1>
+<h1>🚀 ITI Examination & Business Intelligence System</h1>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Comprehensive+Database+Solution;Advanced+Business+Intelligence;Full-Stack+Examination+System;Data+Warehouse+%26+ETL+Pipeline" alt="Typing SVG" />
