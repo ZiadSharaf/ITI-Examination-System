@@ -141,23 +141,23 @@ Phase 6: Application Dev        ████████████████
 <table>
 <tr>
 
-<!-- Moataz Elmesmary -->
+<!-- Ziad Sharaf -->
 <td align="center">
 <div style="position: relative;">
 <img src="https://github.com/user-attachments/assets/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="110px" height="120px" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 <br />
-<sub><b>🔥 Moataz Elmesmary</b></sub>
+<sub><b>🔥 Ziad Sharaf</b></sub>
 <br />
-<sub>BI Dev & Data Analyst</sub>
+<sub>Data Analyst & Power BI Developer</sub>
 </div>
 <br />
-<a href="https://github.com/moataz-elmesmary">
+<a href="https://github.com/ZiadSharaf">
 <img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://www.linkedin.com/in/moatazelmesmary/">
+<a href="https://www.linkedin.com/in/ziad-sharaf-zs//">
 <img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
