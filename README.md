@@ -107,10 +107,6 @@ graph TB
      width="100%" 
      style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
-<h2> SSIS </h2> <u> A sample for the Fact Table:</u>
-
-
-![Fact Table Over all Mapping1](https://github.com/user-attachments/assets/05cad00a-4469-4cb4-abd0-971ae1319e82)
 
 ## DWH
 ![DWH DimModeling](https://github.com/user-attachments/assets/b86d288f-611d-45e1-9676-f4cb2b12efd4)
@@ -130,7 +126,6 @@ graph TB
 | 🏗️ **Database Creation** | T-SQL Scripts | ✅ Complete | Full Database Implementation with 25+ Tables |
 | ⚙️ **Stored Procedures** | T-SQL | ✅ Complete | 70+ Procedures for CRUD & Business Logic |
 | 🏢 **Data Warehouse** | SQL Server | ✅ Complete | Star Schema Design & Implementation |
-| 🔄 **SSIS Integration** | SQL Server Integration Services | ✅ Complete | ETL Pipelines & Data Migration |
 | 📋 **SSRS Reports** | SQL Server Reporting Services | ✅ Complete | 6+ Professional Reports |
 | 📊 **20+ Dashboards** | Power BI & Tableau | ✅ Complete | Interactive Business Intelligence |
 | 📈 **Power BI** | Microsoft Power BI | ✅ Complete | Executive & Operational Dashboards |
