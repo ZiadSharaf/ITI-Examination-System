@@ -118,7 +118,11 @@ graph TB
      width="100%" 
      style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
-<div align="center">
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 📊 Dashboard
 
 *Wanna see a sample of our 20+ Dashboards 📊?*
 
@@ -133,6 +137,9 @@ graph TB
 
 ## 📋 SSRS Reports
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🌐 Website Interface
 
