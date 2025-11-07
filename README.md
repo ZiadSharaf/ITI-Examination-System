@@ -122,6 +122,12 @@ graph TB
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+## 📋 SSRS Reports
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 📊 Dashboard
 
 <div align="center">
@@ -132,12 +138,6 @@ graph TB
 <img src="assets/dashboard2.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard3.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard4.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📋 SSRS Reports
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
