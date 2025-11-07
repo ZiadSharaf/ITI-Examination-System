@@ -48,22 +48,10 @@ font-family: 'Segoe UI', sans-serif;
 This project represents a **revolutionary end-to-end solution** designed to transform how the Information Technology Institute (ITI) manages its academic operations. We're not just building a database - we're crafting a complete ecosystem that handles everything from student registration to advanced business intelligence.
 
 ---
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<div align="center">
-
-*Wanna see a sample of our 20+ Dashboards?*
-
-<img src="assets/dashboard1.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
-<img src="assets/dashboard2.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
-<img src="assets/dashboard3.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
-<img src="assets/dashboard4.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
-
-
-</div>
-
 
 ## ⚙️ Project Workflow
 
@@ -109,6 +97,17 @@ graph TB
      width="100%" 
      style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
+<div align="center">
+
+*Wanna see a sample of our 20+ Dashboards?*
+
+<img src="assets/dashboard1.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
+<img src="assets/dashboard2.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
+<img src="assets/dashboard3.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
+<img src="assets/dashboard4.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
+
+
+</div>
 
 ## Website Interface
 
