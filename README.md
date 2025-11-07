@@ -225,23 +225,23 @@ Phase 6: Application Dev        ████████████████
 </a>
 </td>
 
-<!-- Seif Salah -->
+<!-- Nader John -->
 <td align="center">
 <div style="position: relative;">
-<img src="https://github.com/user-attachments/assets/7de3db41-2a71-42be-b7b0-fc0f3024e0f0" width="120px" height="110px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5); object-fit: cover; display: block; margin: auto;"/>
+<img src="https://github.com/user-attachments/assets/77f849ba-b3dc-4220-8b49-c5d289825889" width="120px" height="110px" style="border-radius: 50%; border: 4px solid #feca57; box-shadow: 0 0 20px rgba(254, 202, 87, 0.5); object-fit: cover; display: block; margin: auto;"/>
 <br />
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"/>
 <br />
-<sub><b>🌟 Seif Salah</b></sub>
+<sub><b>🌟 Nader John</b></sub>
 <br />
 <sub>BI Dev & Data Analyst</sub>
 </div>
 <br />
-<a href="https://github.com/seif-salah">
+<a href="https://github.com/NaderJohn">
 <img src="https://img.shields.io/badge/GitHub-FECA57?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<a href="https://www.linkedin.com/in/seifsalah036/">
+<a href="https://www.linkedin.com/in/naderjohn/">
 <img src="https://img.shields.io/badge/LinkedIn-FECA57?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
