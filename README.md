@@ -76,13 +76,11 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 
 ```mermaid
 graph TB
-   A[🌐 Website Interface] --> B[📊 Power BI Dashboards]
-   A --> C[🎨 Tableau Visualizations]
-   B --> D[📋 SSRS Reports]
-   E --> F[🏢 Data Warehouse DWH]
-   F --> G[⚙️ Stored Procedures]
-   G --> H[🗄️ Database Creation]
-   H --> I[🗺️ ERD & Mapping]
+    A[🗺️ ERD & Mapping] --> B[🗄️ Database Creation]
+    B --> C[⚙️ Stored Procedures]
+    C --> D[🏢 Data Warehouse DWH]
+    D --> E[📊 Power BI Dashboards]
+    E --> F[🌐 Website Interface]
    
    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
    style B fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff
