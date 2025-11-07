@@ -125,7 +125,7 @@ graph TB
 | 📋 **SSRS Reports** | SQL Server Reporting Services | ✅ Complete | 6+ Professional Reports |
 | 📊 **20+ Dashboards** | Power BI & Tableau | ✅ Complete | Interactive Business Intelligence |
 | 📈 **Power BI** | Microsoft Power BI | ✅ Complete | Executive & Operational Dashboards |
-| 🌐 **Website Interface** | Python / React | ✅ Complete | Modern Web Application |
+| 🌐 **Website Interface** | Lovable ai | ✅ Complete | Modern Web Application |
 </div>
 
 ---
