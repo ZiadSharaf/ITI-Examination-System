@@ -64,7 +64,7 @@ graph TB
     B --> C[🗄️ Database Creation]
     C --> D[🧮 Database Generation]
     D --> E[⚙️ Stored Procedures]
-    E --> F[🏢 Data Warehouse DWH]
+    E --> F[🏢 Data Warehouse]
     F --> G[📋 SSRS Reports]
     G --> H[📊 Dashboard]
     H --> I[🌐 Website]
@@ -82,17 +82,17 @@ graph TB
 </div>
 
 
-## ERD
+## 🗺️ ERD
 <img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 
-## Mapping
+## 🗺️ Mapping
 <img src="assets/Mapping.png" 
      alt="Mapping Diagram"
      width="100%" 
      style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
 
-## DWH
+## 🏢 DWH
 <img src="assets/DWH schema.png" 
      alt="DWH Schema"
      width="100%" 
@@ -100,7 +100,7 @@ graph TB
 
 <div align="center">
 
-*Wanna see a sample of our 20+ Dashboards?*
+*Wanna see a sample of our 20+ Dashboards 📊?*
 
 <img src="assets/dashboard1.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard2.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
@@ -110,7 +110,7 @@ graph TB
 
 </div>
 
-## Website Interface
+## 🌐 Website Interface
 
 <img src="Website/Picture 1.png" 
      alt="Website Screenshot 1" 
