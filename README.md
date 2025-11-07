@@ -58,8 +58,10 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 
 *Wanna see a sample of our 20+ Dashboards?*
 
-<img src="https://github.com/user-attachments/assets/019555ae-889e-4f86-b550-0a05ca2ab9e1" width="700"/>
-<img src="https://github.com/user-attachments/assets/6d4b89e5-038e-412a-acdf-c1096a59c510" width="700"/>
+<img src="assets/dashboard1.png" width="700" style="border-radius:12px;margin:8px 0;"/>
+<img src="assets/dashboard2.png" width="700" style="border-radius:12px;margin:8px 0;"/>
+<img src="assets/dashboard3.png" width="700" style="border-radius:12px;margin:8px 0;"/>
+<img src="assets/dashboard4.png" width="700" style="border-radius:12px;margin:8px 0;"/>
 
 </div>
 
