@@ -85,7 +85,6 @@ graph TB
     style F fill:#ff9ff3,stroke:#fff,stroke-width:3px,color:#fff
     style G fill:#54a0ff,stroke:#fff,stroke-width:3px,color:#fff
     style H fill:#5f27cd,stroke:#fff,stroke-width:3px,color:#fff
-    style I fill:#00d2d3,stroke:#fff,stroke-width:3px,color:#fff
 ```
 </div>
 
