@@ -39,10 +39,6 @@ font-family: 'Segoe UI', sans-serif;
 
 ## 🎯 Project Overview
 
-<div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</div>
-
 > **Building the Future of Educational Management** 🌟
 
 This project represents a **revolutionary end-to-end solution** designed to transform how the Information Technology Institute (ITI) manages its academic operations. We're not just building a database - we're crafting a complete ecosystem that handles everything from student registration to advanced business intelligence.
