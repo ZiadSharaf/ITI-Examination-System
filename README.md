@@ -52,6 +52,8 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+  
 ## ⚙️ Project Workflow
 
 <div align="center">
