@@ -32,8 +32,6 @@
 
 </div>
 
-</div>
-
 <p>
   <img src="https://img.shields.io/badge/Status-🔥_Active_Development-ff6b6b?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/Team-5_Developers-4ecdc4?style=for-the-badge" alt="Team"/>
