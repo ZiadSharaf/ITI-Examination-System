@@ -127,18 +127,6 @@ graph TB
 
 ---
 
-## 🗺️ Project Roadmap
-
-### Phase Progress Tracker
-
-```
-Phase 1: Database Design        ████████████████████ 100% ✅
-Phase 2: Implementation         ████████████████████ 100% ✅  
-Phase 3: Data Population        ████████████████████ 100% ✅
-Phase 4: Core Procedures        ████████████████████ 100% ✅
-Phase 5: BI & Reporting         ████████████████████ 100% ✅
-Phase 6: Web Interface          ████████████████████ 100% ✅
-```
 ## Website Interface
 
 <img src="Website/Picture 1.png" 
