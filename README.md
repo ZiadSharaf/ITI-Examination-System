@@ -1,29 +1,31 @@
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-<h1>🚀 ITI Examination System</h1>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+
+<h1>💻 ITI Examination System</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Comprehensive+Database+Solution;Advanced+Business+Intelligence;Full-Stack+Examination+System;Data+Warehouse+%26+ETL+Pipeline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1000&color=00BFFF&center=true&width=550&lines=End-to-End+Examination+System;Business+Intelligence+Integration;Data+Warehouse+Automation;Full+Stack+Analytics+Pipeline" alt="Typing Animation" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/>
-  <img src="https://img.shields.io/badge/SSIS-FF6C37?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSIS"/>
-  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSRS"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-E34F26?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T--SQL-005C84?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSIS-FFA500?style=flat-square&logo=azure-data-factory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F7DF1E?style=flat-square&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SSRS-DC143C?style=flat-square&logo=microsoft&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-🔥_Active_Development-ff6b6b?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Team-5_Developers-4ecdc4?style=for-the-badge" alt="Team"/>
-  <img src="https://img.shields.io/badge/Progress-100%25-45b7d1?style=for-the-badge" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Status-Active_Development-FF6B81?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Team_Size-5_Members-1DD1A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Completion-100%25-48C9B0?style=flat-square"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
+
 
 ## 🎯 Project Overview
 
