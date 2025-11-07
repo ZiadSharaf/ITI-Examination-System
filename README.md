@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1>🚀 ITI Examination System</h1>
 
 <p>
