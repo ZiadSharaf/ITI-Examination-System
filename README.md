@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fci.suez.edu.eg%2Fiti-summer-training-%25D8%25AA%25D8%25AF%25D8%25B1%25D9%258A%25D8%25A8-%25D9%2585%25D8%25B9%25D9%2587%25D8%25AF-%25D8%25AA%25D9%2583%25D9%2586%25D9%2584%25D9%2588%25D8%25AC%25D9%258A%25D8%25A7-%25D8%25A7%25D9%2584%25D9%2585%25D8%25B9%25D9%2584%25D9%2588%25D9%2585%25D8%25A7%25D8%25AA%2F&psig=AOvVaw0tHKb864w6F-NcwMoNwOYz&ust=1762608791762000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD9jM2T4JADFQAAAAAdAAAAABAE)" width="250" />
+
   
 <h1>🚀 ITI Examination System</h1>
 
