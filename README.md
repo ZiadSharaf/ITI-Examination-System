@@ -270,9 +270,7 @@ Phase 6: Application Dev        ████████████████
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&width=435&lines=Together+We+Code%2C+Together+We+Conquer!" width="300">
 
-<br />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 </div>
