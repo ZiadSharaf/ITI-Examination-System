@@ -140,12 +140,30 @@ Phase 2: Implementation         ████████████████
 Phase 3: Data Population        ████████████████████ 100% ✅
 Phase 4: Core Procedures        ████████████████████ 100% ✅
 Phase 5: BI & Reporting         ████████████████████ 100% ✅
-Phase 6: Application Dev        ████████████████████ 100% ✅
+Phase 6: Web Interface          ████████████████████ 100% ✅
 ```
 ## Website
-<img src="https://github.com/user-attachments/assets/e259bc85-ff34-48f6-a196-ac25f0382d0f" width="500" /></br>
-<img src="https://github.com/user-attachments/assets/3100805d-15bf-4775-9857-9f1698397f46" width="500" /></br>
-<img src="https://github.com/user-attachments/assets/d0e06e7e-20be-4b0f-9088-c570630bce46" width="500" />
+## Website Interface
+
+<img src="Website/Picture 1.png" 
+     alt="Website Screenshot 1" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+<img src="Website/Picture 2.png" 
+     alt="Website Screenshot 2" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+<img src="Website/Picture 4.png" 
+     alt="Website Screenshot 4" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+<img src="Website/Picture 6.png" 
+     alt="Website Screenshot 6" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
 
 ## 🌟 Meet Our Legendary Team
