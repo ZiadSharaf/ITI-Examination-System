@@ -479,11 +479,11 @@ The ITI Examination System is a modern and efficient platform designed to simpli
 
 <!-- 💎 Noreen Essam -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/1d0fc507-337b-4336-9174-5ba84cd72237b" width="115" height="115" style="border-radius:50%; border:3px solid #ff69b4; box-shadow:0 0 10px rgba(0,150,199,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/assets/1d0fc507-337b-4336-9174-5ba84cd72237b" width="115" height="115" style="border-radius:50%; border:3px solid #ff69b4; box-shadow:0 0 10px rgba(255,105,180,0.5); object-fit:cover;"/>
 <br><b>Noreen Essam</b><br>
 <sub>Data Analyst • Visualization Expert</sub><br><br>
-<a href="https://github.com/noreenessam"><img src="https://img.shields.io/badge/GitHub-0096C7?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/noreen-essam/"><img src="https://img.shields.io/badge/LinkedIn-0096C7?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/noreenessam"><img src="https://img.shields.io/badge/GitHub-ff69b4?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/noreen-essam/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=flat-square&logo=linkedin&logoColor=white"></a>
 </td>
 
 <!-- 🎯 Ahmed Ibrahim -->
