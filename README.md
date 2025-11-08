@@ -251,6 +251,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 <br/>
 
+### STUDENT DETAILS BY DEPARTMENT SSRS REPORT 
 <div align="center">
   <img src="assets/Report1.png" 
        width="100%" 
