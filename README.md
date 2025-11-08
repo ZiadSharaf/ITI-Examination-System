@@ -292,7 +292,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 <img src="assets/dashboard2.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard3.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard4.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
-
+<br>
 </div>
 If you want to explore all dashboards 📊, you can find the full Power BI file in the folder named **Dashboard**.
 
