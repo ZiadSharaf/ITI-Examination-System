@@ -298,7 +298,16 @@ Leverage raw data to generate actionable insights that drive academic and admini
  
 *Wanna see a sample of our 20+ Dashboards 📊?*
 
-<img src="assets/dashboard1.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
+</div>
+
+<div align="center">
+  <img src="assets/dashboard1.jpg" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
+</div>
+
 <img src="assets/dashboard2.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard3.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard4.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
