@@ -189,10 +189,57 @@ graph TB
 </div>
 
 ## 🏢 DWH
+
+<p align="justify" style="font-size:16px; line-height:1.6;">
+In this stage, we built the analytical layer using <b>SQL Views</b> to serve as a 
+<b>virtual data warehouse</b>. A semantic layer was designed above the operational 
+database to enable analytical querying without duplicating data physically. 
+All data is accessed dynamically through views, ensuring efficiency and consistency 
+between the transactional and analytical systems. 
+<br><br>
+The warehouse follows a <b>Fact–Dimensions architecture</b> that separates 
+operational details from analytical insights. The central <b>Fact_ExamActivity</b> 
+view captures exam responses, marks, and results, while multiple <b>dimension views</b> 
+such as <b>Students</b>, <b>Exams</b>, <b>Courses</b>, <b>Questions</b>, <b>Instructors</b>, 
+and <b>Dates</b> provide contextual information. 
+This design supports advanced <b>analytical queries</b>, <b>trend analysis</b>, and 
+<b>KPI reporting</b> — forming a scalable and efficient analytical model for the 
+ITI Examination System.
+</p>
+
+<br/>
+
+### 🧮 Fact View Implementation
+<div align="center">
+  <img src="assets/Fact_ExamActivity.png" 
+       alt="Fact Exam Activity SQL View"
+       width="90%"
+       style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);margin-top:10px;"/>
+</div>
+
+<br/>
+
+### 🧱 Created Views Structure
+<div align="center">
+  <img src="assets/Views.png" 
+       alt="SQL Views Structure"
+       width="60%"
+       style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);margin-top:10px;"/>
+</div>
 <img src="assets/DWH schema.png" 
      alt="DWH Schema"
      width="100%" 
      style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
+
+<br/>
+
+### 🗺️ Data Warehouse Schema
+<div align="center">
+  <img src="assets/DWH_Schema.png" 
+       alt="Data Warehouse ERD"
+       width="100%"
+       style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);margin-top:10px;"/>
+</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
