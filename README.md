@@ -209,6 +209,8 @@ ITI Examination System.
 
 <br/>
 
+### 🧩 Fact Table – Exam Activity
+
 <div align="center">
   <img src="assets/Fact Exam Activity.png" 
        width="100%" 
@@ -217,6 +219,8 @@ ITI Examination System.
               margin-bottom:40px;"/>
 </div>
 
+### 🧠 SQL Views
+
 <div align="center">
   <img src="assets/Views.png" 
        width="100%" 
@@ -224,6 +228,8 @@ ITI Examination System.
               box-shadow:0 6px 20px rgba(0,0,0,.15);
               margin-bottom:40px;"/>
 </div>
+
+### 🏗️ Data Warehouse Schema
 
 <div align="center">
   <img src="assets/DWH_Schema.png" 
