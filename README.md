@@ -1,5 +1,3 @@
-<img width="1491" height="150" alt="image" src="https://github.com/user-attachments/assets/9394893b-63f2-4a24-b886-f961e43a7f2a" /><div align="center">
-
 <h1>🚀 ITI Examination System</h1>
 
 <img src="https://github.com/user-attachments/assets/94bb8a9a-da45-47f3-bfa5-a83c4d96348d" 
