@@ -302,22 +302,22 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ## 🌐 Website Interface
 
-<img src="Website/Picture 1.png" 
+<img src="assets/Website_Picture 1.png" 
      alt="Website Screenshot 1" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-<img src="Website/Picture 2.png" 
+<img src="assets/Website_Picture 2.png"  
      alt="Website Screenshot 2" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-<img src="Website/Picture 4.png" 
+<img src="assets/Website_Picture 4.png"  
      alt="Website Screenshot 4" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-<img src="Website/Picture 6.png" 
+<img src="assets/Website_Picture 6.png"  
      alt="Website Screenshot 6" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
