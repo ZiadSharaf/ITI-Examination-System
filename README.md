@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1491" height="150" alt="image" src="https://github.com/user-attachments/assets/9394893b-63f2-4a24-b886-f961e43a7f2a" /><div align="center">
 
 <h1>🚀 ITI Examination System</h1>
 
@@ -354,47 +354,56 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 ## 🌐 Website Interface
 
 <div align="center">
- 
+
+### 📝 Student Login Page
 <img src="assets/Website_Picture 1.png" 
      alt="Website Screenshot 1" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 Student Home Page
 <img src="assets/Website_Picture 2.png"  
      alt="Website Screenshot 2" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 Student Home Page
   <img src="assets/Website_Picture 3.png"  
      alt="Website Screenshot 3" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 Example of a selected exam
 <img src="assets/Website_Picture 4.png"  
      alt="Website Screenshot 4" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 Student Result Page
  <img src="assets/Website_Picture 5.png"  
      alt="Website Screenshot 5" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 Instructor Login Page
  <img src="assets/Website_Picture 6.png"  
      alt="Website Screenshot 6" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 Instructor Home Page
 <img src="assets/Website_Picture 7.png"  
      alt="Website Screenshot 7" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 Manage Courses Page
  <img src="assets/Website_Picture 8.png"  
      alt="Website Screenshot 8" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+### 📝 View Student results by instructor Page
  <img src="assets/Website_Picture 9.png"  
      alt="Website Screenshot 9" 
      width="800"
