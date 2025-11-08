@@ -488,7 +488,7 @@ The ITI Examination System is a modern and efficient platform designed to simpli
 
 <!-- 🎯 Ahmed Ibrahim -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="115" height="115" style="border-radius:50%; border:3px solid #000000; box-shadow:0 0 10px rgba(32,201,151,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/assets/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="115" height="115" style="border-radius:50%; border:3px solid #000000; box-shadow:0 0 10px rgba(0,0,0,0.5); object-fit:cover;"/>
 <br><b>Ahmed Ibrahim</b><br>
 <sub>Data Engineer • BI Developer</sub><br><br>
 <a href="https://github.com/Ahmedibrahim175"><img src="https://img.shields.io/badge/GitHub-20C997?style=flat-square&logo=github&logoColor=white"></a>
