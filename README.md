@@ -341,6 +341,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 </div>
 <br>
+
 If you want to explore all dashboards 📊, you can find the full Power BI file in the folder named **Dashboard**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
