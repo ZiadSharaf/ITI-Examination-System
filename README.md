@@ -352,6 +352,12 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ## 🌐 Website Interface
 
+<p align="justify" style="font-size:16px; line-height:1.6;">
+The ITI Examination System is a modern and efficient platform designed to simplify online assessments for both students and instructors. It provides an all-in-one environment where students can take exams, access their results instantly, and track their academic progress. Instructors can effortlessly manage courses, create exams, and monitor student performance through an intuitive dashboard. With its clean interface and seamless functionality, the ITI Examination System ensures a smooth and organized examination process, promoting transparency, accuracy, and convenience for all users. The website was developed using Lovable, which helped streamline the design and functionality of the platform.
+</p>
+
+<br/>
+
 ### 🌐 Student Login Page
 <div align="center">
 <img src="Photos/Website_Picture 1.png" 
