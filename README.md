@@ -351,7 +351,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      
 <div align="center">
   <a href="https://lovable.dev/projects/c04d7cf8-bd7c-4ac8-98dc-8764ded4a74f" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Browse_The_Website-00bfa6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Browse Website"/>
+    <img src="https://img.shields.io/badge/🌐_Browse_The_Website-00bfa6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore Website"/>
   </a>
 </div>
 
@@ -359,6 +359,8 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+ 
 ## 💻 Meet The Dream Team
 
 <div align="center">
