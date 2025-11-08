@@ -314,13 +314,38 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+  <img src="assets/Website_Picture 3.png"  
+     alt="Website Screenshot 3" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
 <img src="assets/Website_Picture 4.png"  
      alt="Website Screenshot 4" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-<img src="assets/Website_Picture 6.png"  
+ <img src="assets/Website_Picture 5.png"  
+     alt="Website Screenshot 5" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+ <img src="assets/Website_Picture 6.png"  
      alt="Website Screenshot 6" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+<img src="assets/Website_Picture 7.png"  
+     alt="Website Screenshot 7" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+ <img src="assets/Website_Picture 8.png"  
+     alt="Website Screenshot 8" 
+     width="800"
+     style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+ <img src="assets/Website_Picture 9.png"  
+     alt="Website Screenshot 9" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
