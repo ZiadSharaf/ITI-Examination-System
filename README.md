@@ -209,36 +209,16 @@ ITI Examination System.
 
 <br/>
 
-### 🧮 Fact View Implementation
 <div align="center">
-  <img src="assets/Fact_ExamActivity.png" 
-       alt="Fact Exam Activity SQL View"
-       width="90%"
-       style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);margin-top:10px;"/>
+  <img src="assets/Fact Exam Activity.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
-<br/>
-
-### 🧱 Created Views Structure
 <div align="center">
-  <img src="assets/Views.png" 
-       alt="SQL Views Structure"
-       width="60%"
-       style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);margin-top:10px;"/>
+  <img src="assets/Views.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
-<img src="assets/DWH schema.png" 
-     alt="DWH Schema"
-     width="100%" 
-     style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
 
-<br/>
-
-### 🗺️ Data Warehouse Schema
 <div align="center">
-  <img src="assets/DWH_Schema.png" 
-       alt="Data Warehouse ERD"
-       width="100%"
-       style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);margin-top:10px;"/>
+  <img src="DWH Schema.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
