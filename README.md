@@ -455,7 +455,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 🧠 Ziad Sharaf -->
 <td align="center">
-<img src="https://github.com/user-attachments/Photos/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="115" height="115" style="border-radius:50%; border:3px solid #0078D7; box-shadow:0 0 10px rgba(0,120,215,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/assets/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="115" height="115" style="border-radius:50%; border:3px solid #0078D7; box-shadow:0 0 10px rgba(0,120,215,0.5); object-fit:cover;"/>
 <br><b>Ziad Sharaf</b><br>
 <sub>Data Analyst • Power BI Specialist</sub><br><br>
 <a href="https://github.com/ZiadSharaf"><img src="https://img.shields.io/badge/GitHub-0078D7?style=flat-square&logo=github&logoColor=white"></a>
@@ -464,7 +464,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- ⚡ Adham Abdelnasser -->
 <td align="center">
-<img src="https://github.com/user-attachments/Photos/11c653a4-acec-47cc-b960-65137a3148a6" width="115" height="115" style="border-radius:50%; border:3px solid #00BFA6; box-shadow:0 0 10px rgba(0,191,166,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/assets/11c653a4-acec-47cc-b960-65137a3148a6" width="115" height="115" style="border-radius:50%; border:3px solid #00BFA6; box-shadow:0 0 10px rgba(0,191,166,0.5); object-fit:cover;"/>
 <br><b>Adham Abdelnasser</b><br>
 <sub>Data Analyst • BI Developer</sub><br><br>
 <a href="https://github.com/Adham-111"><img src="https://img.shields.io/badge/GitHub-00BFA6?style=flat-square&logo=github&logoColor=white"></a>
@@ -473,7 +473,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 💎 Noreen Essam -->
 <td align="center">
-<img src="https://github.com/user-attachments/Photos/1d0fc507-337b-4336-9174-5ba84cd72237b" width="115" height="115" style="border-radius:50%; border:3px solid #0096C7; box-shadow:0 0 10px rgba(0,150,199,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/assets/1d0fc507-337b-4336-9174-5ba84cd72237b" width="115" height="115" style="border-radius:50%; border:3px solid #0096C7; box-shadow:0 0 10px rgba(0,150,199,0.5); object-fit:cover;"/>
 <br><b>Noreen Essam</b><br>
 <sub>Data Analyst • Visualization Expert</sub><br><br>
 <a href="https://github.com/noreenessam"><img src="https://img.shields.io/badge/GitHub-0096C7?style=flat-square&logo=github&logoColor=white"></a>
@@ -482,7 +482,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 🎯 Ahmed Ibrahim -->
 <td align="center">
-<img src="https://github.com/user-attachments/Photos/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="115" height="115" style="border-radius:50%; border:3px solid #20C997; box-shadow:0 0 10px rgba(32,201,151,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/assets/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="115" height="115" style="border-radius:50%; border:3px solid #20C997; box-shadow:0 0 10px rgba(32,201,151,0.5); object-fit:cover;"/>
 <br><b>Ahmed Ibrahim</b><br>
 <sub>Data Engineer • BI Developer</sub><br><br>
 <a href="https://github.com/Ahmedibrahim175"><img src="https://img.shields.io/badge/GitHub-20C997?style=flat-square&logo=github&logoColor=white"></a>
@@ -491,7 +491,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 🌟 Nader John -->
 <td align="center">
-<img src="https://github.com/user-attachments/Photos/24f91dbf-2370-4953-8bd0-8c5c54686bf5" width="115" height="115" style="border-radius:50%; border:3px solid #F4A261; box-shadow:0 0 10px rgba(244,162,97,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/assets/24f91dbf-2370-4953-8bd0-8c5c54686bf5" width="115" height="115" style="border-radius:50%; border:3px solid #F4A261; box-shadow:0 0 10px rgba(244,162,97,0.5); object-fit:cover;"/>
 <br><b>Nader John</b><br>
 <sub>Data Analyst • Dashboard Creator</sub><br><br>
 <a href="https://github.com/NaderJohn"><img src="https://img.shields.io/badge/GitHub-F4A261?style=flat-square&logo=github&logoColor=white"></a>
