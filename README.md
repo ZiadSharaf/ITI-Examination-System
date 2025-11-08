@@ -43,7 +43,7 @@ font-family: 'Segoe UI', sans-serif;
     
 ## 🎯 Project Overview
 
-This project represents a **revolutionary end-to-end solution** designed to transform how the Information Technology Institute (ITI) manages its academic operations. We're not just building a database - we're crafting a complete ecosystem that handles everything from student registration to advanced business intelligence.
+This project represents a comprehensive end-to-end solution aimed at transforming how the Information Technology Institute (ITI) manages its academic operations. It goes beyond a simple database, creating a complete ecosystem that handles everything from student registration to advanced business intelligence. At its core, the smart examination system evaluates students’ comprehension and mastery of subjects, supporting multiple exam formats, identifying strengths and weaknesses, and promoting continuous learning. By doing so, it helps learners gain certifications and equips them to meet modern industry demands efficiently.
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
