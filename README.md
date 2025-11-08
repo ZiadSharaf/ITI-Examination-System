@@ -352,57 +352,64 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ## 🌐 Website Interface
 
+### 🌐 Student Login Page
 <div align="center">
-
-### 📝 Student Login Page
 <img src="assets/Website_Picture 1.png" 
      alt="Website Screenshot 1" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 Student Home Page
+### 🌐 Student Home Page
+<div align="center">
 <img src="assets/Website_Picture 2.png"  
      alt="Website Screenshot 2" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 Student Home Page
+### 🌐 Student Home Page
+<div align="center">
   <img src="assets/Website_Picture 3.png"  
      alt="Website Screenshot 3" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 Example of a selected exam
+### 🌐 Example of a selected exam
+<div align="center">
 <img src="assets/Website_Picture 4.png"  
      alt="Website Screenshot 4" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 Student Result Page
+### 🌐 Student Result Page
+<div align="center">
  <img src="assets/Website_Picture 5.png"  
      alt="Website Screenshot 5" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 Instructor Login Page
+### 🌐 Instructor Login Page
+<div align="center">
  <img src="assets/Website_Picture 6.png"  
      alt="Website Screenshot 6" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 Instructor Home Page
+### 🌐 Instructor Home Page
+<div align="center">
 <img src="assets/Website_Picture 7.png"  
      alt="Website Screenshot 7" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 Manage Courses Page
+### 🌐 Manage Courses Page
+<div align="center">
  <img src="assets/Website_Picture 8.png"  
      alt="Website Screenshot 8" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
-### 📝 View Student results by instructor Page
+### 🌐 View Student results by instructor Page
+<div align="center">
  <img src="assets/Website_Picture 9.png"  
      alt="Website Screenshot 9" 
      width="800"
