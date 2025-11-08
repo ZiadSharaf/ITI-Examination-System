@@ -1,7 +1,7 @@
 <div align="center">
 <h1>🚀 ITI Examination System</h1>
 
-<img src="https://github.com/user-attachments/assets/94bb8a9a-da45-47f3-bfa5-a83c4d96348d" 
+<img src="https://github.com/user-attachments/Photos/94bb8a9a-da45-47f3-bfa5-a83c4d96348d" 
 alt="ITI Examination System Logo" 
 width="180px" 
 style="border-radius: 10px; margin: 10px 0;" />
@@ -91,7 +91,7 @@ graph TB
 </p>
 
 <div align="center">
-  <img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="Photos/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
@@ -108,7 +108,7 @@ graph TB
 </p>
 
 <div align="center">
-  <img src="assets/Mapping.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="Photos/Mapping.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
@@ -132,7 +132,7 @@ graph TB
 </p>
 
 <div align="center">
-  <img src="assets/Tables.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="Photos/Tables.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
@@ -157,11 +157,11 @@ graph TB
 </p>
 
 <div align="center">
-  <img src="assets/Python Script.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="Photos/Python Script.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 <div align="center">
-  <img src="assets/Generation.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="Photos/Generation.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
@@ -180,7 +180,7 @@ graph TB
 </p>
 
 <div align="center">
-  <img src="assets/Stored Procedures.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="Photos/Stored Procedures.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
@@ -211,7 +211,7 @@ ITI Examination System.
 ### 🧩 Fact Table – Exam Activity
 
 <div align="center">
-  <img src="assets/Fact Exam Activity.png" 
+  <img src="Photos/Fact Exam Activity.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -221,7 +221,7 @@ ITI Examination System.
 ### 🧠 SQL Views
 
 <div align="center">
-  <img src="assets/Views.png" 
+  <img src="Photos/Views.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -231,7 +231,7 @@ ITI Examination System.
 ### 🏗️ Data Warehouse Schema
 
 <div align="center">
-  <img src="assets/DWH_Schema.png" 
+  <img src="Photos/DWH_Schema.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -252,7 +252,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 🧑‍🎓 STUDENT DETAILS BY DEPARTMENT
 <div align="center">
-  <img src="assets/Report1.png" 
+  <img src="Photos/Report1.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -261,7 +261,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 🧾 STUDENT GRADES
 <div align="center">
-  <img src="assets/Report2.png" 
+  <img src="Photos/Report2.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -270,7 +270,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 👨‍🏫 INSTUCTOR NAME,COURSES AND STUDENTS NUMBER BY INSTRUCTOR ID
 <div align="center">
-  <img src="assets/Report3.png" 
+  <img src="Photos/Report3.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -279,7 +279,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 📚 TOPICS FOR COURSES
 <div align="center">
-  <img src="assets/Report4.png" 
+  <img src="Photos/Report4.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -301,7 +301,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 📊 STUDENT OVERVIEW DASHBOARD 
 <div align="center">
-  <img src="assets/dashboard1.jpg" 
+  <img src="Photos/dashboard1.jpg" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -312,7 +312,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 💡 ITI QUESTIONS DASHBOARD 
 <div align="center">
-  <img src="assets/dashboard2.jpg" 
+  <img src="Photos/dashboard2.jpg" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -323,7 +323,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 🧠 ITI INSTRUCTOR DASHBOARD 
 <div align="center">
-  <img src="assets/dashboard3.jpg" 
+  <img src="Photos/dashboard3.jpg" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -334,7 +334,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 ### 📝 ITI EXAMS DASHBOARD 
 <div align="center">
-  <img src="assets/dashboard4.jpg" 
+  <img src="Photos/dashboard4.jpg" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
@@ -354,7 +354,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Student Login Page
 <div align="center">
-<img src="assets/Website_Picture 1.png" 
+<img src="Photos/Website_Picture 1.png" 
      alt="Website Screenshot 1" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -363,7 +363,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Student Home Page
 <div align="center">
-<img src="assets/Website_Picture 2.png"  
+<img src="Photos/Website_Picture 2.png"  
      alt="Website Screenshot 2" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -372,7 +372,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Student Home Page
 <div align="center">
-  <img src="assets/Website_Picture 3.png"  
+  <img src="Photos/Website_Picture 3.png"  
      alt="Website Screenshot 3" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -381,7 +381,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Example of a selected exam
 <div align="center">
-<img src="assets/Website_Picture 4.png"  
+<img src="Photos/Website_Picture 4.png"  
      alt="Website Screenshot 4" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -390,7 +390,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Student Result Page
 <div align="center">
- <img src="assets/Website_Picture 5.png"  
+ <img src="Photos/Website_Picture 5.png"  
      alt="Website Screenshot 5" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -399,7 +399,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Instructor Login Page
 <div align="center">
- <img src="assets/Website_Picture 6.png"  
+ <img src="Photos/Website_Picture 6.png"  
      alt="Website Screenshot 6" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -408,7 +408,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Instructor Home Page
 <div align="center">
-<img src="assets/Website_Picture 7.png"  
+<img src="Photos/Website_Picture 7.png"  
      alt="Website Screenshot 7" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -417,7 +417,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 Manage Courses Page
 <div align="center">
- <img src="assets/Website_Picture 8.png"  
+ <img src="Photos/Website_Picture 8.png"  
      alt="Website Screenshot 8" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -426,7 +426,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ### 🌐 View Student results by instructor Page
 <div align="center">
- <img src="assets/Website_Picture 9.png"  
+ <img src="Photos/Website_Picture 9.png"  
      alt="Website Screenshot 9" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
@@ -455,7 +455,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 🧠 Ziad Sharaf -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="115" height="115" style="border-radius:50%; border:3px solid #0078D7; box-shadow:0 0 10px rgba(0,120,215,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/Photos/4d37d0a6-73af-4f34-be3e-f9541ae88ff1" width="115" height="115" style="border-radius:50%; border:3px solid #0078D7; box-shadow:0 0 10px rgba(0,120,215,0.5); object-fit:cover;"/>
 <br><b>Ziad Sharaf</b><br>
 <sub>Data Analyst • Power BI Specialist</sub><br><br>
 <a href="https://github.com/ZiadSharaf"><img src="https://img.shields.io/badge/GitHub-0078D7?style=flat-square&logo=github&logoColor=white"></a>
@@ -464,7 +464,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- ⚡ Adham Abdelnasser -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/11c653a4-acec-47cc-b960-65137a3148a6" width="115" height="115" style="border-radius:50%; border:3px solid #00BFA6; box-shadow:0 0 10px rgba(0,191,166,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/Photos/11c653a4-acec-47cc-b960-65137a3148a6" width="115" height="115" style="border-radius:50%; border:3px solid #00BFA6; box-shadow:0 0 10px rgba(0,191,166,0.5); object-fit:cover;"/>
 <br><b>Adham Abdelnasser</b><br>
 <sub>Data Analyst • BI Developer</sub><br><br>
 <a href="https://github.com/Adham-111"><img src="https://img.shields.io/badge/GitHub-00BFA6?style=flat-square&logo=github&logoColor=white"></a>
@@ -473,7 +473,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 💎 Noreen Essam -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/1d0fc507-337b-4336-9174-5ba84cd72237b" width="115" height="115" style="border-radius:50%; border:3px solid #0096C7; box-shadow:0 0 10px rgba(0,150,199,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/Photos/1d0fc507-337b-4336-9174-5ba84cd72237b" width="115" height="115" style="border-radius:50%; border:3px solid #0096C7; box-shadow:0 0 10px rgba(0,150,199,0.5); object-fit:cover;"/>
 <br><b>Noreen Essam</b><br>
 <sub>Data Analyst • Visualization Expert</sub><br><br>
 <a href="https://github.com/noreenessam"><img src="https://img.shields.io/badge/GitHub-0096C7?style=flat-square&logo=github&logoColor=white"></a>
@@ -482,7 +482,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 🎯 Ahmed Ibrahim -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="115" height="115" style="border-radius:50%; border:3px solid #20C997; box-shadow:0 0 10px rgba(32,201,151,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/Photos/fe2190d1-eeaf-4d0e-b0db-6d1dc418034d" width="115" height="115" style="border-radius:50%; border:3px solid #20C997; box-shadow:0 0 10px rgba(32,201,151,0.5); object-fit:cover;"/>
 <br><b>Ahmed Ibrahim</b><br>
 <sub>Data Engineer • BI Developer</sub><br><br>
 <a href="https://github.com/Ahmedibrahim175"><img src="https://img.shields.io/badge/GitHub-20C997?style=flat-square&logo=github&logoColor=white"></a>
@@ -491,7 +491,7 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 <!-- 🌟 Nader John -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/24f91dbf-2370-4953-8bd0-8c5c54686bf5" width="115" height="115" style="border-radius:50%; border:3px solid #F4A261; box-shadow:0 0 10px rgba(244,162,97,0.5); object-fit:cover;"/>
+<img src="https://github.com/user-attachments/Photos/24f91dbf-2370-4953-8bd0-8c5c54686bf5" width="115" height="115" style="border-radius:50%; border:3px solid #F4A261; box-shadow:0 0 10px rgba(244,162,97,0.5); object-fit:cover;"/>
 <br><b>Nader John</b><br>
 <sub>Data Analyst • Dashboard Creator</sub><br><br>
 <a href="https://github.com/NaderJohn"><img src="https://img.shields.io/badge/GitHub-F4A261?style=flat-square&logo=github&logoColor=white"></a>
