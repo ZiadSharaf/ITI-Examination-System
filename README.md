@@ -109,10 +109,7 @@ graph TB
 </p>
 
 <div align="center">
-  <img src="assets/Mapping.png" 
-       alt="Mapping Diagram"
-       width="100%" 
-       style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.15);" />
+  <img src="assets/Mapping.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
@@ -136,10 +133,7 @@ graph TB
 </p>
 
 <div align="center">
-  <img src="assets/Tables.png" 
-       alt="Mapping Diagram"
-       width="100%" 
-       style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.15);" />
+  <img src="assets/Tables.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
 </div>
 
 </div>
@@ -147,7 +141,6 @@ graph TB
 </div>
 
 ## 🧮 Database Generation
-
 
 <p align="justify" style="font-size:16px; line-height:1.6;">
   In this phase, we utilized <b>Python</b> along with several <b>AI-powered platforms</b> 
@@ -163,6 +156,10 @@ graph TB
   allowed us to build a <b>high-quality, representative dataset</b> suitable for testing 
   and system evaluation.
 </p>
+
+<div align="center">
+  <img src="assets/Python Script.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
