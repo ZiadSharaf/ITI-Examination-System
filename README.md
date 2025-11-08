@@ -120,22 +120,11 @@ graph TB
 </div>
 
 
-
 ## 🗄️ Database Creation
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
-       alt="Database Creation Animation"
-       width="80%" 
-       style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.15); margin:15px 0;" />
 </div>
-
-<p align="justify" style="font-size:16px; line-height:1.6; margin-top:10px;">
-  In this stage, we implemented the <b>database schema</b> by writing and executing the required 
-  <b>SQL scripts</b>. The system components were then integrated into a functional database 
-  environment, followed by testing to verify that it effectively handles exam data, 
-  student responses, and related operations.
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🧮 Database Generation
 
