@@ -84,7 +84,16 @@ graph TB
 
 
 ## 🗺️ ERD
-<img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+
+<p align="justify" style="font-size:16px; line-height:1.6; margin-bottom:15px;">
+  In this phase, we designed the <b>Entity-Relationship Diagram (ERD)</b> to define the main entities,
+  their attributes, and the relationships between them. This step provided a clear conceptual
+  view of how data flows within the system.
+</p>
+
+<div align="center">
+  <img src="assets/erd.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
