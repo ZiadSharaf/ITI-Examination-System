@@ -226,7 +226,7 @@ ITI Examination System.
 </div>
 
 <div align="center">
-  <img src="DWH Schema.png" 
+  <img src="DWH_Schema.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
