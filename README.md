@@ -251,7 +251,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 <br/>
 
-### STUDENT DETAILS BY DEPARTMENT SSRS REPORT 
+### STUDENT DETAILS BY DEPARTMENT
 <div align="center">
   <img src="assets/Report1.png" 
        width="100%" 
@@ -260,6 +260,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
               margin-bottom:40px;"/>
 </div>
 
+### STUDENT GRADES
 <div align="center">
   <img src="assets/Report2.png" 
        width="100%" 
@@ -268,6 +269,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
               margin-bottom:40px;"/>
 </div>
 
+###  INSTUCTOR NAME,COURSES AND STUDENTS NUMBER BY INSTRUCTOR ID  SSRS REPORT
 <div align="center">
   <img src="assets/Report3.png" 
        width="100%" 
@@ -276,6 +278,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
               margin-bottom:40px;"/>
 </div>
 
+### TOPICS FOR COURSES
 <div align="center">
   <img src="assets/Report4.png" 
        width="100%" 
