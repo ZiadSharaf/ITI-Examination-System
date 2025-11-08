@@ -148,6 +148,22 @@ graph TB
 
 ## 🧮 Database Generation
 
+
+<p align="justify" style="font-size:16px; line-height:1.6;">
+  In this phase, we utilized <b>Python</b> along with several <b>AI-powered platforms</b> 
+  to generate the required dataset. Using Python libraries such as 
+  <code>Faker</code> and <code>Random</code>, we created structured and diverse synthetic data 
+  representing students, courses, and exam activities. 
+  <br><br>
+  To enhance data realism and variability, we also leveraged <b>AI tools</b> like 
+  <b>ChatGPT</b> and <b>Gemini</b> to simulate more complex scenarios, such as 
+  realistic exam results, student behavior patterns, and course interactions. 
+  <br><br>
+  This combination of traditional data generation techniques and AI-assisted modeling 
+  allowed us to build a <b>high-quality, representative dataset</b> suitable for testing 
+  and system evaluation.
+</p>
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
