@@ -302,6 +302,8 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
 
 ## 🌐 Website Interface
 
+<div align="center">
+ 
 <img src="assets/Website_Picture 1.png" 
      alt="Website Screenshot 1" 
      width="800"
