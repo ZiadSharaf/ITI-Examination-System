@@ -122,6 +122,21 @@ graph TB
 
 ## 🗄️ Database Creation
 
+<p align="justify" style="font-size:16px; line-height:1.6; margin-top:10px;">
+  In this stage, we implemented the <b>database schema</b> by writing and executing the required 
+  <b>SQL scripts</b>. We began by creating the database using the 
+  <code>CREATE DATABASE</code> command, followed by defining tables and specifying 
+  appropriate <b>data types</b> for each attribute using <code>CREATE TABLE</code>. 
+  Afterward, we applied <b>constraints</b> such as <code>PRIMARY KEY</code>, 
+  <code>FOREIGN KEY</code>, and <code>NOT NULL</code> to ensure data integrity and maintain 
+  relationships between entities.
+  <br><br>
+  Finally, the system components were integrated into a functional database environment, 
+  and testing was conducted to verify that it efficiently handles exam data, student responses, 
+  and related operations.
+</p>
+
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
