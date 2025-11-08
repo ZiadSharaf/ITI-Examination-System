@@ -359,6 +359,8 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+</div>
+
 ### 🌐 Student Home Page
 <div align="center">
 <img src="assets/Website_Picture 2.png"  
