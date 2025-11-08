@@ -349,12 +349,11 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
      
-<h2 align="center">🌐 Browse the Website</h2>
-<p align="center">
+<div align="center">
   <a href="https://lovable.dev/projects/c04d7cf8-bd7c-4ac8-98dc-8764ded4a74f" target="_blank">
-    👉 Click here to visit the live website
+    <img src="https://img.shields.io/badge/🌐_Browse_The_Website-00bfa6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Browse Website"/>
   </a>
-</p>
+</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
