@@ -341,8 +341,28 @@ Leverage raw data to generate actionable insights that drive academic and admini
               margin-bottom:40px;"/>
 </div>
 
+</div>
+
+### 📝 PREDICTIVE ANALYSIS DASHBOARD 
+<div align="center">
+  <img src="Photos/Predictive_Analysis.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
+</div>
 
 </div>
+
+### 📝 STUDENT FACEBOOK DASHBOARD 
+<div align="center">
+  <img src="PhotosStudent_Facebook.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
+</div>
+
 <br>
 
 If you want to explore all dashboards 📊, you can find the full Power BI file in the folder named **Dashboard**.
