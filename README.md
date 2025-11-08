@@ -368,12 +368,16 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+ </div>
+
 ### 🌐 Student Home Page
 <div align="center">
   <img src="assets/Website_Picture 3.png"  
      alt="Website Screenshot 3" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+ </div>
 
 ### 🌐 Example of a selected exam
 <div align="center">
@@ -382,12 +386,16 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+ </div>
+
 ### 🌐 Student Result Page
 <div align="center">
  <img src="assets/Website_Picture 5.png"  
      alt="Website Screenshot 5" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+ </div>
 
 ### 🌐 Instructor Login Page
 <div align="center">
@@ -396,12 +404,16 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+ </div>
+
 ### 🌐 Instructor Home Page
 <div align="center">
 <img src="assets/Website_Picture 7.png"  
      alt="Website Screenshot 7" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+ </div>
 
 ### 🌐 Manage Courses Page
 <div align="center">
@@ -410,12 +422,16 @@ If you want to explore all dashboards 📊, you can find the full Power BI file 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
+ </div>
+
 ### 🌐 View Student results by instructor Page
 <div align="center">
  <img src="assets/Website_Picture 9.png"  
      alt="Website Screenshot 9" 
      width="800"
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
+
+ </div>
      
 <div align="center">
   <a href="https://lovable.dev/projects/c04d7cf8-bd7c-4ac8-98dc-8764ded4a74f" target="_blank">
