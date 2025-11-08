@@ -239,6 +239,45 @@ ITI Examination System.
 
 ## 📋 SSRS Reports
 
+<p align="justify" style="font-size:16px; line-height:1.6;">
+Leverage raw data to generate actionable insights that drive academic and administrative decision-making. Utilize SQL Server Reporting Services (SSRS) to design, deploy, and manage paginated reports, all powered by optimized stored procedures to ensure high performance, scalability, and reusability.
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="assets/Report1.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
+</div>
+
+<div align="center">
+  <img src="assets/Report2.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
+</div>
+
+<div align="center">
+  <img src="assets/Report3.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
+</div>
+
+<div align="center">
+  <img src="assets/Report4.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
+</div>
+
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
