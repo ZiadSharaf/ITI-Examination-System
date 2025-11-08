@@ -1,7 +1,7 @@
 <div align="center">
 <h1>🚀 ITI Examination System</h1>
 
-<img src="https://github.com/user-attachments/Photos/94bb8a9a-da45-47f3-bfa5-a83c4d96348d" 
+<img src="https://github.com/user-attachments/assets/94bb8a9a-da45-47f3-bfa5-a83c4d96348d" 
 alt="ITI Examination System Logo" 
 width="180px" 
 style="border-radius: 10px; margin: 10px 0;" />
