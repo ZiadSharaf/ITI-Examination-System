@@ -100,10 +100,20 @@ graph TB
 </div>
 
 ## 🗺️ Mapping
-<img src="assets/Mapping.png" 
-     alt="Mapping Diagram"
-     width="100%" 
-     style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
+
+<p align="justify" style="font-size:16px; line-height:1.6; margin-bottom:15px;">
+  After completing the <b>Entity-Relationship Diagram (ERD)</b>, we performed the <b>mapping process</b> 
+  to translate the conceptual model into a logical database structure. This included defining 
+  primary and foreign keys, establishing relationships between tables, and preparing the foundation 
+  for database creation and further data modeling.
+</p>
+
+<div align="center">
+  <img src="assets/Mapping.png" 
+       alt="Mapping Diagram"
+       width="100%" 
+       style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.15);" />
+</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
