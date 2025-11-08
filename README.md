@@ -210,15 +210,27 @@ ITI Examination System.
 <br/>
 
 <div align="center">
-  <img src="assets/Fact Exam Activity.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="assets/Fact Exam Activity.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
 </div>
 
 <div align="center">
-  <img src="assets/Views.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="assets/Views.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
 </div>
 
 <div align="center">
-  <img src="DWH schema.png" width="100%" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);"/>
+  <img src="DWH schema.png" 
+       width="100%" 
+       style="border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,.15);
+              margin-bottom:40px;"/>
 </div>
 
 </div>
