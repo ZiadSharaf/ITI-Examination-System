@@ -130,12 +130,17 @@ graph TB
   Afterward, we applied <b>constraints</b> such as <code>PRIMARY KEY</code>, 
   <code>FOREIGN KEY</code>, and <code>NOT NULL</code> to ensure data integrity and maintain 
   relationships between entities.
-  <br><br>
   Finally, the system components were integrated into a functional database environment, 
   and testing was conducted to verify that it efficiently handles exam data, student responses, 
   and related operations.
 </p>
 
+<div align="center">
+  <img src="assets/Tables.png" 
+       alt="Mapping Diagram"
+       width="100%" 
+       style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.15);" />
+</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
