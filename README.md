@@ -251,7 +251,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 <br/>
 
-### STUDENT DETAILS BY DEPARTMENT
+### 🧑‍🎓 STUDENT DETAILS BY DEPARTMENT
 <div align="center">
   <img src="assets/Report1.png" 
        width="100%" 
@@ -260,7 +260,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
               margin-bottom:40px;"/>
 </div>
 
-### STUDENT GRADES
+### 🧾 STUDENT GRADES
 <div align="center">
   <img src="assets/Report2.png" 
        width="100%" 
@@ -269,7 +269,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
               margin-bottom:40px;"/>
 </div>
 
-###  INSTUCTOR NAME,COURSES AND STUDENTS NUMBER BY INSTRUCTOR ID  SSRS REPORT
+### 👨‍🏫 INSTUCTOR NAME,COURSES AND STUDENTS NUMBER BY INSTRUCTOR ID
 <div align="center">
   <img src="assets/Report3.png" 
        width="100%" 
@@ -278,7 +278,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
               margin-bottom:40px;"/>
 </div>
 
-### TOPICS FOR COURSES
+### 📚 TOPICS FOR COURSES
 <div align="center">
   <img src="assets/Report4.png" 
        width="100%" 
@@ -300,7 +300,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 </div>
 
-### STUDENT OVERVIEW DASHBOARD 
+### 📊 STUDENT OVERVIEW DASHBOARD 
 <div align="center">
   <img src="assets/dashboard1.jpg" 
        width="100%" 
@@ -311,7 +311,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 </div>
 
-### ITI QUESTIONS DASHBOARD 
+### 💡 ITI QUESTIONS DASHBOARD 
 <div align="center">
   <img src="assets/dashboard2.jpg" 
        width="100%" 
@@ -322,7 +322,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 </div>
 
-### ITI INSTRUCTOR DASHBOARD 
+### 🧠 ITI INSTRUCTOR DASHBOARD 
 <div align="center">
   <img src="assets/dashboard3.jpg" 
        width="100%" 
@@ -333,7 +333,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 </div>
 
-###  ITI EXAMS DASHBOARD 
+### 📝 ITI EXAMS DASHBOARD 
 <div align="center">
   <img src="assets/dashboard4.jpg" 
        width="100%" 
