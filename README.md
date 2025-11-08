@@ -343,7 +343,7 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 </div>
 
-### 📝 PREDICTIVE ANALYSIS DASHBOARD 
+### 📈 PREDICTIVE ANALYSIS DASHBOARD 
 <div align="center">
   <img src="Photos/Predictive_Analysis.png" 
        width="100%" 
@@ -354,9 +354,9 @@ Leverage raw data to generate actionable insights that drive academic and admini
 
 </div>
 
-### 📝 STUDENT FACEBOOK DASHBOARD 
+### 🧑‍🎓 STUDENT FACEBOOK DASHBOARD 
 <div align="center">
-  <img src="PhotosStudent_Facebook.png" 
+  <img src="Photos/Student_Facebook.png" 
        width="100%" 
        style="border-radius:12px;
               box-shadow:0 6px 20px rgba(0,0,0,.15);
