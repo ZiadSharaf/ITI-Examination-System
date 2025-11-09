@@ -471,9 +471,7 @@ The ITI Examination System is a modern and efficient platform designed to simpli
 Wanna visit the project website? 🌐  
 Click below to explore it online 👇
 
-<br>
-
-<div align="center">
+<div align="center" style="margin-top:-10px;">
   <a href="https://lovable.dev/projects/c04d7cf8-bd7c-4ac8-98dc-8764ded4a74f" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Explore_The_Website-00bfa6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore Website"/>
   </a>
