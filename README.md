@@ -366,7 +366,12 @@ Leverage raw data to generate actionable insights that drive academic and admini
 <br>
 
 Wanna explore all dashboards 📊?  
-Check the full Power BI file inside the **Dashboard** folder, or view it online on [NovyPro](https://project.novypro.com/bxWYfq).
+Check the full Power BI file inside the **Dashboard** folder, or view it online on
+<div align="center">
+  <a href="https://project.novypro.com/bxWYfq" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20on%20NovyPro-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Explore on NovyPro"/>
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
