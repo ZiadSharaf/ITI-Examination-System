@@ -368,8 +368,6 @@ Leverage raw data to generate actionable insights that drive academic and admini
 Wanna explore all dashboards 📊?  
 Check the full Power BI file inside the **Dashboard** folder, or view it online below 👇
 
-<br>
-
 <div align="center">
   <a href="https://project.novypro.com/bxWYfq" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20on%20NovyPro-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Explore on NovyPro"/>
@@ -467,6 +465,8 @@ The ITI Examination System is a modern and efficient platform designed to simpli
      style="border-radius:12px;margin:10px 0;box-shadow:0 4px 15px rgba(0,0,0,.15);" />
 
  </div>
+
+ <br>
      
 Wanna visit the project website? 🌐  
 Click below to explore it online 👇
